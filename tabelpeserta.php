@@ -17,7 +17,7 @@
         background: #F5F7FA;
 		font-family: 'Open Sans', sans-serif;
 	}
-	.table-wrapper {
+	/*.table-wrapper {
 		width: 1100px;
 		margin: 30px auto;
         background: #fff;
@@ -94,7 +94,7 @@
 	}
 	table.table td .add {
 		display: none;
-	}
+	}*/
 </style>
 <script>
 $(document).ready(function(){
@@ -165,7 +165,7 @@ $(document).ready(function(){
             <table class="table table-bordered" border="1">
                 <thead>
                     <tr>
-                        <th>No</th>
+                        <th width="5%">No</th>
                         <th>Nama</th>
                         <th>NIM</th>
                         <th>Email</th>
